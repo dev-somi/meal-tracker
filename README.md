@@ -1,6 +1,6 @@
 💡 Project Introduction / プロジェクト紹介 
-"A Shared Expense Tracker for Collaborative Budgeting (2+ Users)"
-「2人以上のユーザーが共同で支出を管理できるシェア家計簿アプリ」
+- "A Shared Expense Tracker for Collaborative Budgeting (2+ Users)"
+- 「2人以上のユーザーが共同で支出を管理できるシェア家計簿アプリ」
 
 🛠 Tech Stack / 使用技術
 - Frontend: Flutter, Dart
